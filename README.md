@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 * 🌍  I'm based in Johor, Malaysia
-* 🌱 I’m currently learning **Software engineering** in UTM
 * 📫 How to reach me **chenxi1254@gmail.com**
 * ⚡ Fun fact: I'm also active in the **Boys' Brigade** in the 1st Johor Bahru Company
 
